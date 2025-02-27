@@ -1,0 +1,86 @@
+.dropdown:not(.dropdown-hover) .dropdown-menu {
+    margin-top: 0 !important;
+}
+
+i {
+    margin-left: -5px;
+    margin-right: 5px;
+}
+
+.page-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.search-bar {
+    width: 400px;
+}
+
+.bar {
+    height: 40px;
+}
+
+.center-search {
+    width: 200px;
+}
+
+.hide {
+    display: none;
+}
+
+.logowanie {
+    width: 500px;
+}
+
+.alert-top {
+    position: fixed;
+    top: 5px;
+    width: 80%;
+    left: 10%;
+}
+
+.pracownik:hover {
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.avatar-xxxl {
+    width: 200px !important;
+    height: 200px !important;
+}
+
+.selectUser {
+    width: 100%;
+    padding: 10px 0;
+    padding-left: 30px;
+    border: 1px solid black;
+    text-align: left;
+}
+
+.selectUser:hover {
+    background-color: aliceblue;
+}
+
+.chatbox {
+    border: 1px solid black;
+}
+
+.trescW {
+    overflow: hidden !important;
+    resize: none !important;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.wyslijW {
+    margin-top: -14px;
+}
+
+.wybrana {
+    background-color: aliceblue !important;
+}
+
+.data {
+    font-size: 12px;
+    color: #8c9296; 
+}
